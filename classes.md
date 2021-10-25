@@ -17,7 +17,9 @@ class Humain
     }
 }
 '''
+
 Création d'une instance (un objet)
+
 '''js
 let paul = new Humain('Paul', 'Dupont', 'M');
 '''
